@@ -1,3 +1,0 @@
-var config = {
-  CURRENCY_ACCESS_KEY: "694d3233f7104242b0a1b0aa40137390",
-};
